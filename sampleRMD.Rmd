@@ -1,0 +1,19 @@
+---
+title: "Version control"
+author: "Maya Howell"
+date: "2024-12-07"
+output: html_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+## R Markdown
+
+sample R markdown file to commit
+
+```{r}
+summary(cars)
+
+```
